@@ -41,11 +41,12 @@ I have gained varied experience in several related fields, including scientific 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
 
 **Specializations:**
-- 🧠 Deep Learning (CNNs, RNNs, Transformers)
+- 📊 Statistical Modeling & Optimization
+- 📊 Machine Learning
+- 🧠 Deep Learning (CNNs, RNNs, LSTM, Transformers)
 - 🔍 Computer Vision & Image Processing
 - 📝 Natural Language Processing (spaCy, NLTK)
 - 🤖 Generative AI & LLM Agents (AutoGen, LangGraph, OpenAI SDK)
-- 📊 Statistical Modeling & Optimization
 
 ### 📊 Data Engineering & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
