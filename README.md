@@ -14,7 +14,8 @@
 
 ## 🚀 About Me
 
-Passionate about transforming data into actionable insights through **Data Processing & Analytics**, **Data Science**, and **Machine Learning**. I specialize in building end-to-end Data pipelines, intelligent systems, and scalable applications.
+Passionate about transforming data into actionable insights through **Data Processing**, **Analytics**, **Data Science (Machine Learning & Deep Learning & AI)**, and **Scientific Software Development**. I specialize in building end-to-end Data pipelines, intelligent systems, and scalable applications. 
+I have gained varied experience in several related fields, including scientific programming, data engineering/analysis, and ML.
 
 🔭 Currently working on: **AI-powered applications & LLM-based agents**  
 🌱 Learning: **Generative AI, and MLOps**
